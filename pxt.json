@@ -1,0 +1,17 @@
+{
+  "name": "pxt-ina219",
+  "version": "0.0.2",
+  "description": "MakeCode extension for the INA219 current, voltage, and power monitor",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "ina219.ts",
+    "README.md"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": true
+}
